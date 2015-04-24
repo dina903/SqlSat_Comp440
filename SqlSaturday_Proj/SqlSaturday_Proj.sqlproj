@@ -145,5 +145,6 @@
     <Build Include="Security\s15guest07_1.sql" />
     <Build Include="Security\RoleMemberships.sql" />
     <Build Include="Security\Permissions.sql" />
+    <Build Include="InsertTrack.sql" />
   </ItemGroup>
 </Project>

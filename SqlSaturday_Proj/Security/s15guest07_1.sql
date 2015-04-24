@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [s15guest07]
+    WITH PASSWORD = N'{ndtuowajxE{f|qf3JugrmipmsFT7_&#$!~<lr?el!csktp5', SID = 0x10AA58426604524AAF57AE6A2C62DE6D, DEFAULT_DATABASE = [s15guest07], DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+
